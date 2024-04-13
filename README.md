@@ -43,7 +43,7 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Color System`</td>
+    <td>Color System</td>
     <td> 
       <b>1- <a href="https://m3.material.io/styles/color/system/how-the-system-works">How The System Works</a> </b> <br> 
       <b>2- <a href="https://github.com/material-components/material-components-android/blob/master/docs/theming/Color.md">Color theming - Github</a> </b> 
@@ -51,14 +51,14 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Color Roles`</td>
+    <td>Color Roles</td>
     <td>
       <b><a href="https://m3.material.io/styles/color/roles">What are color roles?</a> </b>
     </td>
   </tr>
   
   <tr>
-    <td>`Color Schemes`</td>
+    <td>Color Schemes</td>
     <td>
       <b>1- <a href="https://m3.material.io/styles/color/choosing-a-scheme">Choosing a scheme</a> </b> <br> 
       <b>2- <a href="https://m3.material.io/styles/color/static/baseline">Static</a> </b> <br> 
@@ -67,7 +67,7 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Advanced`</td>
+    <td>Advanced</td>
     <td>
       <b>1- <a href="https://m3.material.io/styles/color/advanced/overview">Overview</a> </b> <br> 
       <b>2- <a href="https://m3.material.io/styles/color/advanced/apply-colors">Apply Color</a> </b> <br> 
@@ -77,7 +77,7 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Elevation`</td>
+    <td>Elevation</td>
     <td>
       <b>1- <a href="https://m3.material.io/styles/elevation/overview">Overview</a> </b> <br> 
       <b>2- <a href="https://m3.material.io/styles/elevation/applying-elevation">Applying Elevation</a> </b> <br> 
@@ -86,7 +86,7 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Icons`</td>
+    <td>Icons</td>
     <td>
       <b> <a href="https://fonts.google.com/icons">Official Website</a> </b> <br> 
       <b>---------------------------------------------------------</b>  <br> 
@@ -97,7 +97,7 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Typography`</td>
+    <td>Typography</td>
     <td>
       <b > <a href="https://fonts.google.com/">Official Website</a></b> <br> 
       <b>---------------------------------------------------------</b>  <br> 
@@ -117,7 +117,7 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Material Design Palette`</td>
+    <td>Material Design Palette</td>
     <td> 
       <b>1- <a href="https://www.materialpalette.com/yellow/amber">Material Design Palette</a> </b> <br> 
       <b>2- <a href="https://youtu.be/ynOUzHFFMeg?t=373">Youtube video will help you to apply theming in the right way through Material Design Palette website</a> </b> 
@@ -125,14 +125,14 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
   
   <tr>
-    <td>`Material Design Blog`</td>
+    <td>Material Design Blog</td>
     <td>
       <b><a href="https://material.io/blog/android-material-theme-color">Building a Material Theme on Android: Color (For more understand)</a> </b>
     </td>
   </tr>
 
   <tr>
-    <td>`Material UI`</td>
+    <td>Material UI</td>
     <td>
       <b>1- <a href="https://materialui.co/colors">Colors</a> </b> <br> 
       <b>2- <a href="https://materialui.co/icons">Icons</a> </b> <br> 
@@ -143,14 +143,14 @@ In summary, "primary" usually refers to importance or prominence, especially in 
   </tr>
 
   <tr>
-    <td>`Tailwind Color Palette`</td>
+    <td>Tailwind Color Palette</td>
     <td>
       <b><a href="https://tailwindcolor.com/">Colors</a> </b> <br> 
     </td>
   </tr>
 
  <tr>
-    <td>`Medium Article`</td>
+    <td>Medium Article</td>
     <td>
       <b>1- <a href="https://medium.com/@iam_riyas/turn-your-custom-color-into-material-3-material-you-colour-schema-f490ef2fdee5">Turn your custom color into Material 3 (Material You) colour schema</a> </b> <br> 
       <b>2- <a href="https://medium.com/@rafael.gferreira98/implementing-material-3-theme-in-android-da4a6694265a">Implementing Material 3 Theme in Android</a> </b> <br> 
@@ -162,12 +162,12 @@ In summary, "primary" usually refers to importance or prominence, especially in 
 
 <table> 
   <tr>
-    <th>UI/UX materials</th>
+    <th>UI/UX Materials</th>
     <th>Website</th>
   </tr>
    
   <tr>
-    <td>`Uplabs`</td>
+    <td>Uplabs</td>
     <td>
       <b>1- <a href="https://www.uplabs.com/templates/android">TempletesColors</a> </b> <br> 
       <b>2- <a href="https://www.uplabs.com/ui-kits/android">UI Kits</a> </b> <br> 
@@ -177,10 +177,130 @@ In summary, "primary" usually refers to importance or prominence, especially in 
       <b>6- <a href="https://www.uplabs.com/">Trending</a> </b>
     </td>
   </tr>
-
 </table>
 
 
+
+<table> 
+  <tr>
+    <th>Component</th>
+    <th>Website</th>
+  </tr>
+   
+  <tr>
+    <td>Bottom app bar</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/BottomAppBar.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/bottom-app-bar/overview">Overview</a> </b> <br> 
+    </td>
+  </tr>
+
+   <tr>
+    <td>Top app bars</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/TopAppBar.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/top-app-bar/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Badge</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/BadgeDrawable.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/badges/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>All Button</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#design-api-documentation">All Buttons - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/all-buttons">Overview On All Button</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md">Common Buttons - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/buttons/overview">Common Buttons - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/FloatingActionButton.md">Floating Action Buttons (FAB) - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/floating-action-button/overview">Floating Action Buttons (FAB) - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/FloatingActionButton.md#extended-fabs">Extended FAB - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/extended-fab/overview">Extended FAB - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#icon-button">Icon buttons - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/icon-buttons/overview">Icon buttons - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#toggle-button">Segmented buttons - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/segmented-buttons/overview">Segmented buttons - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Card</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Card.md">Card - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/cards/overview">Card - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Carousel</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Carousel.md">Carousel - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/carousel/overview">Carousel - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Checkbox</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Checkbox.md">Checkbox - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/checkbox/overview">Checkbox - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Chips</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Chip.md">Chips - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/chips/overview">Chips - (Overview)</a> </b> <br> 
+    </td>
+   </tr>  
+
+   <tr>
+    <td>Date pickers</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/DatePicker.md">Date pickers - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/date-pickers/overview">Date pickers - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Dialogs</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Dialog.md">Dialogs - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/dialogs/overview">Dialogs - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Divider</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Divider.md">Divider - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/divider/overview">Divider - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Menus</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Menu.md">Menus - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/menus/overview">Menus - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+
+  
+</table>
 
 
 
