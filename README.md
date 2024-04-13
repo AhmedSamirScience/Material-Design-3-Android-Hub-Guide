@@ -111,11 +111,13 @@
     </td>
   </tr>
 
-
-
- 
+  <tr>
+    <td>`Tailwind Color Palette`</td>
+    <td>
+      <b><a href="https://tailwindcolor.com/">Colors</a> </b> <br> 
+    </td>
+  </tr>
 </table>
-
 
 
 
