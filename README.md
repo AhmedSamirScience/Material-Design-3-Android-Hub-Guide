@@ -299,9 +299,106 @@ In summary, "primary" usually refers to importance or prominence, especially in 
    </tr>
 
 
-  
-</table>
 
+   <tr>
+    <td>Navigation</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/BottomNavigation.md">Navigation bar - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/navigation-bar/overview">Navigation bar - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/NavigationDrawer.md">Navigation drawer - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/navigation-drawer/overview">Navigation drawer - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/NavigationRail.md">Navigation rail - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/navigation-rail/overview">Navigation rail - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Progress indicators</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/ProgressIndicator.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/progress-indicators/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Radio button</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/RadioButton.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/radio-button/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+
+   <tr>
+    <td>Search</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Search.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/search/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Sheets</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/BottomSheet.md">Bottom Sheet - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/bottom-sheets/overview">Bottom Sheet - (Overview)</a> </b> <br> 
+      <b>---------------------------------------------------------</b>  <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/SideSheet.md">Side sheets - (Github Implementation)</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/side-sheets/overview">Side sheets - (Overview)</a> </b> <br> 
+    </td>
+   </tr>
+
+  <tr>
+    <td>Sliders</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Slider.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/sliders/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+ <tr>
+    <td>Snackbar</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Snackbar.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/snackbar/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Switch</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Switch.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/switch/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Tabs</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Tabs.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/tabs/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Text fields</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/TextField.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/text-fields/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+
+   <tr>
+    <td>Time pickers</td>
+    <td>
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/TimePicker.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/time-pickers/overview">Overview</a> </b> <br> 
+    </td>
+   </tr>
+ 
+</table>
 
 
 
