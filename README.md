@@ -1,6 +1,41 @@
-# Android_Materials
- 
+# Understanding Color Usage in Design (When To Use Each Of Primary, Secondary, and Tertiary)
+Understanding when to use primary, secondary, and tertiary colors in design is crucial for creating visually appealing and effective user interfaces. Here's a guide on when to use each:
 
+1. **Primary Colors**:
+   - Use primary colors for elements that require high visibility, emphasis, or brand association.
+   - Apply primary colors to key UI components such as top bars, buttons, important icons, and primary call-to-action elements.
+   - Primary colors should represent the core identity of your application or brand, so they should be used consistently throughout the interface to reinforce brand recognition.
+
+2. **Secondary Colors**:
+   - Use secondary colors to provide contrast, variety, and visual interest without overshadowing primary elements.
+   - Apply secondary colors to less prominent UI components such as accents, highlights, borders, dividers, and secondary call-to-action elements.
+   - Secondary colors help create visual hierarchy and guide users' attention to important parts of the interface while maintaining a cohesive color scheme.
+
+3. **Tertiary Colors**:
+   - Use tertiary colors to add further variation, depth, and nuance to the color palette, especially for subtle details or decorative elements.
+   - Apply tertiary colors sparingly for additional accents, highlights, or subtle gradients to enhance the visual richness of the interface.
+   - Tertiary colors can be used for background accents, subtle shadows, or fine details that contribute to the overall visual design without overwhelming the primary and secondary colors.
+
+In summary, primary colors are for high visibility and brand association, secondary colors provide contrast and variety without overshadowing primary elements, and tertiary colors add subtle details and depth to enhance the overall visual appeal. By understanding the roles of each type of color, you can create harmonious and engaging user interfaces that effectively communicate your brand identity and guide users through the application.
+
+# Understanding the Differences Between "Primary" and "Primary Container"
+The terms "primary" and "primary container" can vary in meaning depending on the context in which they are used. However, let's discuss the general differences:
+
+1. **Primary**:
+   - In design and user interfaces, "primary" typically refers to something of utmost importance or fundamental in nature.
+   - When referring to colors, the primary color is usually the dominant or most prominent color used in the design, often associated with branding or key elements of the interface.
+   - For example, in Material Design, the primary color is a key component of the application's color palette and is used for primary UI elements such as top bars, buttons, and other key components.
+
+2. **Primary Container**:
+   - The term "primary container" is less common and may refer to a specific type of container or element within a layout or design.
+   - In some cases, "primary container" could denote the main or primary container within a layout hierarchy, such as the root container or a container that holds the primary content of a page or screen.
+   - It may also refer to a container that houses primary UI elements or content, such as the main content area of a webpage or the primary navigation menu within an application.
+
+In summary, "primary" usually refers to importance or prominence, especially in terms of colors and design elements, while "primary container" could refer to a specific type of container within a layout hierarchy or a container that houses primary content or UI elements. The distinction between the two terms depends on the specific context in which they are used.
+
+
+ 
+# Android Materials References
 <table> 
   <tr>
     <th>Styles</th>
@@ -75,10 +110,6 @@
   </tr>
 </table>
 
-
-
-
-
 <table> 
   <tr>
     <th>External Styles for more Understand</th>
@@ -117,6 +148,16 @@
       <b><a href="https://tailwindcolor.com/">Colors</a> </b> <br> 
     </td>
   </tr>
+
+ <tr>
+    <td>`Medium Article`</td>
+    <td>
+      <b>1- <a href="https://medium.com/@iam_riyas/turn-your-custom-color-into-material-3-material-you-colour-schema-f490ef2fdee5">Turn your custom color into Material 3 (Material You) colour schema</a> </b> <br> 
+      <b>2- <a href="https://medium.com/@rafael.gferreira98/implementing-material-3-theme-in-android-da4a6694265a">Implementing Material 3 Theme in Android</a> </b> <br> 
+      <b>3- <a href="https://stackoverflow.com/questions/70610702/cannot-resolve-symbol-theme-material3-light-noactionbar-android-studio">Implementing Material 3 Gradle Dependencies</a> </b> <br> 
+    </td>
+  </tr>
+  
 </table>
 
 
