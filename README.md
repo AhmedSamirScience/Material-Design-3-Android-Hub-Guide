@@ -237,64 +237,64 @@ In summary, "primary" usually refers to importance or prominence, especially in 
    <tr>
     <td>Card</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Card.md">Card - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/cards/overview">Card - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Card.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/cards/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
    <tr>
     <td>Carousel</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Carousel.md">Carousel - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/carousel/overview">Carousel - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Carousel.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/carousel/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
    <tr>
     <td>Checkbox</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Checkbox.md">Checkbox - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/checkbox/overview">Checkbox - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Checkbox.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/checkbox/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
    <tr>
     <td>Chips</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Chip.md">Chips - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/chips/overview">Chips - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Chip.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/chips/overview">Overview</a> </b> <br> 
     </td>
    </tr>  
 
    <tr>
     <td>Date pickers</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/DatePicker.md">Date pickers - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/date-pickers/overview">Date pickers - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/DatePicker.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/date-pickers/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
    <tr>
     <td>Dialogs</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Dialog.md">Dialogs - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/dialogs/overview">Dialogs - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Dialog.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/dialogs/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
    <tr>
     <td>Divider</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Divider.md">Divider - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/divider/overview">Divider - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Divider.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/divider/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
    <tr>
     <td>Menus</td>
     <td>
-      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Menu.md">Menus - (Github Implementation)</a> </b> <br> 
-      <b>2- <a href="https://m3.material.io/components/menus/overview">Menus - (Overview)</a> </b> <br> 
+      <b>1- <a href="https://github.com/material-components/material-components-android/blob/master/docs/components/Menu.md">Github Implementation</a> </b> <br> 
+      <b>2- <a href="https://m3.material.io/components/menus/overview">Overview</a> </b> <br> 
     </td>
    </tr>
 
