@@ -157,10 +157,28 @@ In summary, "primary" usually refers to importance or prominence, especially in 
       <b>3- <a href="https://stackoverflow.com/questions/70610702/cannot-resolve-symbol-theme-material3-light-noactionbar-android-studio">Implementing Material 3 Gradle Dependencies</a> </b> <br> 
     </td>
   </tr>
-  
 </table>
 
 
+<table> 
+  <tr>
+    <th>UI/UX materials</th>
+    <th>Website</th>
+  </tr>
+   
+  <tr>
+    <td>`Uplabs`</td>
+    <td>
+      <b>1- <a href="https://www.uplabs.com/templates/android">TempletesColors</a> </b> <br> 
+      <b>2- <a href="https://www.uplabs.com/ui-kits/android">UI Kits</a> </b> <br> 
+      <b>3- <a href="https://www.uplabs.com/icons">Icons</a> </b> <br> 
+      <b>4- <a href="https://www.uplabs.com/mockups/android">Mockups</a> </b> <br> 
+      <b>5- <a href="https://www.uplabs.com/themes">Themes</a> </b> <br> 
+      <b>6- <a href="https://www.uplabs.com/">Trending</a> </b>
+    </td>
+  </tr>
+
+</table>
 
 
 
