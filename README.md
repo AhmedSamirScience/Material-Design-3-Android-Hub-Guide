@@ -1,3 +1,5 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamirscience&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamirscience" /> </p>
 # Material Components for Android
 
 This repository contains implementations and overviews of various components from Material Design 3 for Android applications. Below is a summary of the available components along with links to their implementations and additional documentation.
