@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamirscience&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamirscience" /> </p>
+
 # Material Design 3 References for Android Developers
 
 This README provides a comprehensive guide to understanding and implementing Material Design 3 styles and components in Android applications. It covers color usage in design, differences between "Primary" and "Primary Container," and references to various Material Design resources.
