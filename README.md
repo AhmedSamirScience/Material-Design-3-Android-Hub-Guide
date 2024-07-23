@@ -1,6 +1,6 @@
 # My Working References
 
-This repository contains a curated list of useful tools and resources that I frequently use in my Android development projects.
+This branch contains a curated list of useful tools and resources that I frequently use in my Android development projects.
 
 ## Tools
 
